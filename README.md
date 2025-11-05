@@ -2,7 +2,13 @@
 
 **`📈 Economics | Data Science 💻`**
 
-My name is Giovanni Müller, I am 22 years old from Curitiba, Paraná, Brazil. I have a background in Systems Analysis and Development from the Pontifícia Universidade Católica do Paraná (PUCPR) and am currently completing a degree in Economics at Universidade Franciscana do Paraná (FAE). I am passionate about Economics and Applied Statistics and a member of the Brazilian Statistical Association.
+My name is Giovanni Müller, I’m a 22-year-old data analyst and economics student based in Curitiba, Brazil, with a strong foundation in Systems Analysis and Development (PUCPR) and currently completing a Bachelor’s degree in Economics at FAE University.
+
+I’m deeply passionate about the intersection of Economics, Data Analysis, and Applied Statistics — exploring how technology and quantitative methods can enhance business intelligence, financial planning, and decision-making.
+
+Throughout my academic and professional journey, I’ve developed a growing interest in how data-driven insights can support strategic management and controlling processes. I’m especially motivated by projects that merge economic reasoning with programming and automation, transforming raw data into actionable intelligence.
+
+My long-term goal is to specialize in data analysis and controlling, building solutions that connect technical precision with strategic vision, helping organizations make smarter, evidence-based decisions.
 
 
 ---
