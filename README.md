@@ -1,4 +1,4 @@
-#  Giovanni Mathias S Müller
+#  Giovanni Mathias Schneider Müller
 
 **`📈 Economics | Data Science 💻`**
 
