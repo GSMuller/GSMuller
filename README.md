@@ -27,15 +27,6 @@ My long-term goal is to specialize in data analysis and controlling, building so
 />
 
 
-<img 
-    align="left" 
-    alt="R"
-    title="" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
-/>
-
 
 
 <img 
@@ -78,6 +69,16 @@ My long-term goal is to specialize in data analysis and controlling, building so
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+/>
+
+
+<img 
+    align="left" 
+    alt="R"
+    title="" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 />
 
 
