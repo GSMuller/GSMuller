@@ -2,14 +2,14 @@
 
 **`📈 Economics | Data Science 💻`**
 
-My name is Giovanni Müller, I’m a 22-year-old data analyst and economics student based in Curitiba, Brazil, with a strong foundation in Systems Analysis and Development (PUCPR) and currently completing a Bachelor’s degree in Economics at FAE University.
+Hi! 
+My name is Giovanni Müller, I'm a 22-year-old data analyst and engineer based in Curitiba, Brazil, with a strong foundation in Systems Analysis and Development (PUCPR) and currently completing a Bachelor's degree in Economics at FAE University.
 
-I’m deeply passionate about the intersection of Economics, Data Analysis, and Applied Statistics — exploring how technology and quantitative methods can enhance business intelligence, financial planning, and decision-making.
+I'm deeply passionate about the intersection of Economics, Data Engineering, and Applied Statistics — building modern ETL pipelines and data warehouse architectures that transform raw financial data into strategic business intelligence. My work focuses on leveraging PostgreSQL, BigQuery, and Python to create robust data infrastructure that supports financial planning and evidence-based decision-making.
 
-Throughout my academic and professional journey, I’ve developed a growing interest in how data-driven insights can support strategic management and controlling processes. I’m especially motivated by projects that merge economic reasoning with programming and automation, transforming raw data into actionable intelligence.
+Throughout my academic and professional journey, I've developed expertise in production-grade data engineering solutions, particularly in controllership processes. I'm especially motivated by projects that merge economic reasoning with technical precision — implementing medallion architecture, automated pipelines, and database optimization to transform complex datasets into actionable insights for financial analysis.
 
-My long-term goal is to specialize in data analysis and controlling, building solutions that connect technical precision with strategic vision, helping organizations make smarter, evidence-based decisions.
-
+My goal is to continue growing as a data engineer specializing in economic and financial applications, building scalable solutions that connect quantitative methods with modern data infrastructure, helping organizations make smarter, data-driven decisions through technically sound systems.
 
 ---
 
