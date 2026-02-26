@@ -3,7 +3,7 @@
 **`📈 Economics | Data Science 💻`**
 
 Hi! 
-My name is Giovanni Müller, I'm a 22-year-old data analyst and engineer based in Curitiba, Brazil, with a strong foundation in Systems Analysis and Development (PUCPR) and currently completing a Bachelor's degree in Economics at FAE University.
+My name is Giovanni Müller, I'm a 22-year-old data analyst based in Curitiba, Brazil, with a strong foundation in Systems Analysis and Development (PUCPR) and currently completing a Bachelor's degree in Economics at FAE University.
 
 I'm deeply passionate about the intersection of Economics, Data Engineering, and Applied Statistics — building modern ETL pipelines and data warehouse architectures that transform raw financial data into strategic business intelligence. My work focuses on leveraging PostgreSQL, BigQuery, and Python to create robust data infrastructure that supports financial planning and evidence-based decision-making.
 
